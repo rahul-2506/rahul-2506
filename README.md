@@ -23,7 +23,6 @@
 
 - 🔭 Currently building **AI applications, Go microservices & cloud-native solutions**
 - 🌱 Deep-diving into **AWS, Kubernetes, System Design & MLOps**
-- ⚡ Fun fact: *I enjoy turning complex hackathon ideas into seamless real-world applications.*
 - 📫 How to reach me: **[rahulmuthupandi02@gmail.com](mailto:rahulmuthupandi02@gmail.com)**
 
 ---
