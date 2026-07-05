@@ -59,19 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-2506&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
----
 
-### 🏆 Top Projects
-
-<!-- Replace PROJECT_1_REPO and PROJECT_2_REPO with your actual repo names (e.g. 'my-awesome-ai-app') -->
-<div align="center">
-  <a href="https://github.com/rahul-2506/PROJECT_1_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-2506&repo=PROJECT_1_REPO&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/rahul-2506/PROJECT_2_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-2506&repo=PROJECT_2_REPO&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</div>
 
 ---
 
@@ -85,8 +73,3 @@
   </picture>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul-2506&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
